@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In this home lab we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows networking works, so I’d highly recommend running through it a couple times, ask questions where stuff is unclear and eventually try to build it on your own without watching. Please let me know if you have any questions!
+In this home lab we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab will definitely help show how active directory and windows networking works.
 <br />
 
 
@@ -77,6 +77,11 @@ Attempt pinging the internet to confirm the DNS server works:  <br/>
 <br />
 
 
+Oluwatobi Omotayo <omotayotobi2020@gmail.com>
+23:14 (0 minutes ago)
+to me
+Summary:
+Building this Active Directory home lab provided hands-on experience in deploying and managing enterprise identity infrastructure. I learned how to install and configure Active Directory Domain Services (AD DS), create and organize domain users and administrative accounts, configure DHCP for automated IP assignment, and implement NAT/RAS to enable secure internal network access with external internet connectivity. Additionally, I gained practical experience using PowerShell scripting to automate user provisioning and managing client systems within a domain environment. These steps reinforced core concepts such as DNS resolution, domain authentication, network segmentation, and centralized access control.  
 <!--
  ```diff
 - text in red
