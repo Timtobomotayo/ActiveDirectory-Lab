@@ -71,15 +71,10 @@ Attempt pinging the internet to confirm the DNS server works:  <br/>
 <img src="https://i.imgur.com/EKXv6eK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Create RAS/NAT. This is what will allow our client to be able to allow Client be on a VPN but still be able to access the internet through the domain controller (DC) :  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
 
-Oluwatobi Omotayo <omotayotobi2020@gmail.com>
-23:14 (0 minutes ago)
-to me
+
+
 Summary:
 Building this Active Directory home lab provided hands-on experience in deploying and managing enterprise identity infrastructure. I learned how to install and configure Active Directory Domain Services (AD DS), create and organize domain users and administrative accounts, configure DHCP for automated IP assignment, and implement NAT/RAS to enable secure internal network access with external internet connectivity. Additionally, I gained practical experience using PowerShell scripting to automate user provisioning and managing client systems within a domain environment. These steps reinforced core concepts such as DNS resolution, domain authentication, network segmentation, and centralized access control.  
 <!--
