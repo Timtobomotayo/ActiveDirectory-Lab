@@ -49,15 +49,31 @@ Create RAS/NAT. This is what will allow our client to be able to allow Client be
 <img src="https://i.imgur.com/rZmdtAS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setup the DHCP server on the DC. This help client gets an IP address that will let them get on the internet even though they are on a private internal network  <br/>
+Setup the DHCP server on the DC. This help client gets an IP address that will let them get on the internet even though they are on a private internal network:  <br/>
 <img src="https://i.imgur.com/CbIu7nO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create RAS/NAT. This is what will allow our client to be able to allow Client be on a VPN but still be able to access the internet through the domain controller (DC) :  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use PowerShell scripting to create new users on the domain server:  <br/>
+<img src="https://i.imgur.com/UTbuyWy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create RAS/NAT. This is what will allow our client to be able to allow Client be on a VPN but still be able to access the internet through the domain controller (DC) :  <br/>
+Confirm if the new user group was created:  <br/>
+<img src="https://i.imgur.com/n52iRTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create a windows 10 virtual machine (Client 1):  <br/>
+<img src="https://i.imgur.com/jaoaKxK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+(b.) Confirming that the IP Addressing works:  <br/>
+<img src="https://i.imgur.com/Xlg8pby.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Attempt pinging the internet to confirm the DNS server works:  <br/>
+<img src="https://i.imgur.com/EKXv6eK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Create RAS/NAT. This is what will allow our client to be able to allow Client be on a VPN but still be able to access the internet through the domain controller (DC) :  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
