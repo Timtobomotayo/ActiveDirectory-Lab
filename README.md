@@ -21,11 +21,10 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 <p align="center">
 Network Diagram: <br/>
-<img src="https://i.imgur.com/a/JjlB65R.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" />
 <br />
 <br />
 Enter the number of passes: <br/>
