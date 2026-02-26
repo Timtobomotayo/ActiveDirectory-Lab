@@ -28,16 +28,21 @@ Install server (Domain Controller) on Oracle Virtual Box: <br/>
 <img src="https://i.imgur.com/99045xS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up IP Addressing:
+(a.)	Rename NICs for ease of identification: <br/>
+<img src="https://i.imgur.com/dr2SdSq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+(b.)	Then give addressing to the internal only while the INTERNET gets an IP address from the home router: <br/>
+<img src="https://i.imgur.com/1TGgqgZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a domain (by installing Active Directory Domain Services) then create dedicated domain admin account:  <br/>
+<img src="https://i.imgur.com/XOwsmUj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create an organizational unit for the admin account:  <br/>
+<img src="https://i.imgur.com/p8SRaJ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
