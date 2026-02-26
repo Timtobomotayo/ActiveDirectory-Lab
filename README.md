@@ -45,7 +45,19 @@ Create an organizational unit for the admin account:  <br/>
 <img src="https://i.imgur.com/p8SRaJ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Create RAS/NAT. This is what will allow our client to be able to allow Client be on a VPN but still be able to access the internet through the domain controller (DC) :  <br/>
+<img src="https://i.imgur.com/rZmdtAS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Setup the DHCP server on the DC. This help client gets an IP address that will let them get on the internet even though they are on a private internal network  <br/>
+<img src="https://i.imgur.com/CbIu7nO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create RAS/NAT. This is what will allow our client to be able to allow Client be on a VPN but still be able to access the internet through the domain controller (DC) :  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create RAS/NAT. This is what will allow our client to be able to allow Client be on a VPN but still be able to access the internet through the domain controller (DC) :  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
