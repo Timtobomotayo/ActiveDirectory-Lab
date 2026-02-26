@@ -22,7 +22,6 @@ In this lab we're going to walk through how to create an Active Directory home l
 <p align="center">
 Network Diagram: <br/>
 <img src="https://i.imgur.com/aNSGu02.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- https://i.imgur.com/aNSGu02.jpeg
 <br />
 <br />
 Select the disk:  <br/>
